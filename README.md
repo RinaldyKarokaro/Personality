@@ -64,8 +64,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
 
 ## Readme
-- Lakukan clone project /n
--    ->git clone https://github.com/RinaldyKarokaro/Personality.git
+- Lakukan clone project 
+-        ->git clone https://github.com/RinaldyKarokaro/Personality.git
 - Kemudian update composer
 -    ->composer update
 - Kemudian membuat file .env
