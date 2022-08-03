@@ -65,17 +65,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Readme
 - Lakukan clone project 
--        ->git clone https://github.com/RinaldyKarokaro/Personality.git
+-        git clone https://github.com/RinaldyKarokaro/Personality.git
 - Kemudian update composer
--    ->composer update
+-        composer update
 - Kemudian membuat file .env
 - Lakukan konfigurasi pada file .env
 - kemudian lakukan migrasi database
--    ->php artisan migrate
+-        php artisan migrate
 - kemudian jalankan seeder
--    ->php artisan db:seed
+-        php artisan db:seed
 - kemudian run project
--    ->php artisan serve
+-        php artisan serve
 
 
 Untuk data user admin dapat di lihat dari tabel admin di database yang di create melalu seeder
