@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -61,4 +61,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
+
+## Readme
+-Lakukan clone project
+    ->git clone https://github.com/RinaldyKarokaro/Personality.git
+-Kemudian update composer
+    ->composer update
+->Kemudian membuat file .env
+->Lakukan konfigurasi pada file .env
+->kemudian lakukan migrasi database
+    ->php artisan migrate
+->kemudian jalankan seeder
+    ->php artisan db:seed
+->kemudian run project
+    ->php artisan serve
+
+
+Untuk data user admin dapat di lihat dari tabel admin di database yang di create melalu seeder
