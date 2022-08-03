@@ -64,18 +64,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT). -->
 
 ## Readme
--Lakukan clone project
-    ->git clone https://github.com/RinaldyKarokaro/Personality.git
--Kemudian update composer
-    ->composer update
-->Kemudian membuat file .env
-->Lakukan konfigurasi pada file .env
-->kemudian lakukan migrasi database
-    ->php artisan migrate
-->kemudian jalankan seeder
-    ->php artisan db:seed
-->kemudian run project
-    ->php artisan serve
+- Lakukan clone project /n
+-    ->git clone https://github.com/RinaldyKarokaro/Personality.git
+- Kemudian update composer
+-    ->composer update
+- Kemudian membuat file .env
+- Lakukan konfigurasi pada file .env
+- kemudian lakukan migrasi database
+-    ->php artisan migrate
+- kemudian jalankan seeder
+-    ->php artisan db:seed
+- kemudian run project
+-    ->php artisan serve
 
 
 Untuk data user admin dapat di lihat dari tabel admin di database yang di create melalu seeder
